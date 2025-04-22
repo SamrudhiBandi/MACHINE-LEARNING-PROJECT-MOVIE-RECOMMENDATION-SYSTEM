@@ -10,6 +10,7 @@ Built using Python and libraries like pandas, scikit-learn, and NLTK, the system
 This project highlights the power of machine learning in delivering personalized experiences and mirrors real-world applications seen in platforms like Netflix, Amazon Prime, and IMDb.
 
 Project Workflow
+
 Step 1: Data Collection
 Use datasets TMDB.
 
